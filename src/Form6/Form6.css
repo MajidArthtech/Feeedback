@@ -2,7 +2,6 @@
     margin: 0%;
     padding: 0%;
 }
-
 .black{
     background-color: black;
     width: 100%;
@@ -32,7 +31,9 @@
     font-weight: 400;
     font-size: 22px;
 }
-
+.male{
+    width: 18%;
+}
 .personal-details{
     margin-left: 32%;
     margin-top: 17px;
@@ -231,6 +232,61 @@
         margin-left: 20%;
     }
     .personal-details{
-        margin-left: 26%;
+        margin-left: 24%;
+    }
+}
+@media(max-width: 425px){
+    .form-1{
+        margin-left: 55px;
+    }
+    .btn-1{
+        margin-left: 15px;
+    }
+    .btn-2{
+        margin: 20px 6rem;
+        width: 35%;
+        padding: 10px 13px;
+    }
+    .logo{
+        margin-left: 6%;
+        margin-top: 10px;
+    }
+    .Address-h1{
+        margin-left: 25%;
+    }
+    .id-label{
+        margin-left: 25px;
+    }
+    .input-1{
+        margin-left: 26px;
+        width: 68%;
+    }
+    .input-2{
+        margin-left: 7%;
+        width: 67%;
+    }
+    .name-label{
+        margin-left: 7%;
+    }
+    .gender-div{
+        margin-left: 7%;
+    }
+    .select-1{
+        width: 72%;
+    }
+    .select-2{
+        margin-left: 227px;
+    }
+    .customer-div{
+        margin-left: -195px;
+    }
+    .vip-customer{
+        margin-left: 230px;
+    }
+    .personal-details{
+        margin-left: 2%;
+    }
+    .male{
+        width: 100%;
     }
 }

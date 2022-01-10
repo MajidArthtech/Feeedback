@@ -1,0 +1,118 @@
+
+.main-bottom{
+    background-color: #144d87;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.bottom-div-1{
+    font-size: 35px;
+    color: #809fbe;
+}
+.th-bottom{
+    padding-left: 8rem;
+    font-weight: 400;
+}
+.th-bottom-1{
+    font-weight: 400;
+    padding-left: 7rem;
+}
+.arrow-icon{
+    float: right;
+}
+.th-rate-1{
+    padding-left: 9rem;
+    color: white;
+    font-size: 3rem;
+}
+.th-rate-2{
+    font-size: 3rem;
+    color: white;
+    padding-left: 15rem;
+}
+.th-rate-3{
+    padding-left: 15rem;
+    font-size: 3rem;
+    color: white;
+}
+.icons{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    float: left;
+}
+.icon-1{
+    margin-top: 25px;
+    float: left;
+    width: 20%;
+    color: #797979;
+}
+.icon-1 h1{
+    margin-left: 4rem;
+}
+
+.icon-2{
+    margin-top: 25px;
+    float: left;
+    width: 20%;
+    color: #797979;
+}
+.icon-2 h1{
+    margin-left: 2rem;
+}
+
+.icon-3{
+    margin-top: 25px;
+    float: left;
+    width: 20%;
+    color: #797979;
+}
+
+.icon-4{
+    margin-top: 25px;
+    float: left;
+    width: 20%;
+    color: #797979;
+}
+.icon-text{
+    color: #797979;
+}
+.icon-3{
+    margin-top: 25px;
+}
+.icon-4{
+    margin-left: 25px;
+}
+.scan-icon{
+    float: left;
+    width: 20%;
+    color: #f57735;
+}
+.scan-bg{
+    background-color: white;
+    color: #f57735;
+    margin: -4rem -38px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 50%;
+}
+.scan-text{
+    margin-top: -8rem;
+    color: black;
+    font-weight: 500;
+}
+.shop-btn{
+    color: #797979;
+    font-size: 30px;
+    cursor: pointer;
+    padding: 13px 31px;
+    width: 66%;
+    border-radius: 36px;
+    border: 0px;
+    background-color: white;
+    margin: 0px 5px 81px 130px;
+}
+

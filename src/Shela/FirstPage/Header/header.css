@@ -1,0 +1,17 @@
+.head{
+    margin-top: -30px;
+    text-align: center;
+    color: blue;
+}  
+p{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.span-head{
+    color: red;
+}
+hr{
+    width: 100%;
+    margin-top: -25px;
+}

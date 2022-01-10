@@ -10,7 +10,7 @@ function Form6() {
       <div className="icon">
         <button className="btn-1">  <BsArrowLeftShort /> Back </button>
         
-        <h1 className="logo"> Logo <span>home</span> centre </h1>
+        <h1 className="logo"> Logo <span>home</span>centre </h1>
       </div>
       <hr />
       <h1 className="Address-h1">Add Address Details </h1>
@@ -20,8 +20,7 @@ function Form6() {
           <th className="th-2"> <tr> Contact Details </tr> </th>
           <th className="th-3"> <tr> Delivary Details </tr> </th>
         </div>   <hr />
-
-
+        
         <form className="form-1">
           <label className='id-label'> Customer ID  </label>
           <input type="phone" className="input-1" placeholder="456543124" required />
@@ -33,9 +32,9 @@ function Form6() {
           <div className='gender-div'>
           <label className='gender-label'>Gender</label> <br />
     <div className="checkboxes">
-    <label><input id="male" type="radio" name="gender" value="male" className="hidden" required /><span> UNSPECIFIED </span></label>
-    <label><input id="female" type="radio" name="gender" value="male" className="hidden" required /><span>MALE  </span></label>
-    <label><input id="other" type="radio" name="gender" value="male" className="hidden" required /><span>FEMALE</span></label>
+    <label className='male'> <input type="radio" name="gender" value="male" className="hidden" required /><span> UNSPECIFIED </span></label>
+    <label className='female'><input type="radio" name="gender" value="male" className="hidden" required /><span>MALE  </span></label>
+    <label className='other'><input type="radio" name="gender" value="male" className="hidden" required /><span>FEMALE</span></label>
     </div>
           <div className='language-1'>
           <label className='language-label'> Language </label> <br />
@@ -46,10 +45,7 @@ function Form6() {
           </select>
           </div>
 
-
           </div>
- 
-
           <div className='customer-div'>
               <div>
               <label className='nationality-1'> Nationality  </label> <br />

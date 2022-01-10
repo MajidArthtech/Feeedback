@@ -1,0 +1,67 @@
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.main{
+    margin-left: 14rem;
+}
+.span-70{
+    color: #ffa575;
+}
+.span-40{
+    color: black;
+    font-weight: 500;
+}
+.th-1{
+    font-size: 29px;
+    font-weight: 400;
+    color: #b6b6b6;
+    word-spacing: 4px;
+}
+.th-2{
+    padding-left: 19rem;
+    font-size: 20px;
+    color: #aaaaaa;
+    font-weight: 400;
+}
+.th-order-no{
+    font-size: 25px;
+    font-weight: 300;
+    color: #aaaaaa;
+    letter-spacing: 1px;
+}
+.th-add{
+    padding-left: 5rem;
+    font-size: 25px;
+    color: #aaaaaa;
+    font-weight: 300;
+}
+.th-qty{
+    padding-left: 27rem;
+    color: #aaaaaa;
+    font-size: 20px;
+}
+.hr-1{
+    margin-top: 0px;
+    width: 75%;
+}
+.inp-1{
+    width: 16%;
+    border-radius: 12px;
+    padding: 2px 5px;
+}
+.btn-1{
+    background-color: #d1e3f6;
+    color: #265b92;
+    cursor: pointer;
+    border: 0px;
+    border-radius: 20px;
+    padding: 5px 26px;
+    margin-top: 8px;
+    font-size: 22px;
+}
+.span-40{
+    color: black;
+    font-weight: 500;
+}
