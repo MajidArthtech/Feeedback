@@ -4,6 +4,7 @@ import './../FirstPage/First.css';
 
 function FirstPage() {
     return (
+        <>
         <div className='main'>
              <div className='container'>
                 <div className='div-1'>
@@ -24,7 +25,7 @@ function FirstPage() {
                 <hr className='hr-1' />
             </div>  
         </div>
-           
+    </>
     )
 }
 export default FirstPage;

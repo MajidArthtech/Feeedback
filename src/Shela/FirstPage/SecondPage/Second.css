@@ -1,0 +1,39 @@
+.side-total{
+    padding-left: 13rem;
+    font-size: 20px;
+    color: #aaaaaa;
+    font-weight: 400;
+}
+.price-para{
+    font-size: 22px;
+}
+.tag{
+    display: flex;
+}
+.tag-icon{
+    background-color: #e0efff;
+}
+.tag-right-side{
+    margin: 3rem 3rem 0px 0px;
+}
+.btn-1{
+    background-color: #d1e3f6;
+    color:#3b6c9e;
+    cursor: pointer;
+    border: 0px;
+    border-radius: 20px;
+    padding: 5px 26px;
+    margin-top: 8px;
+    font-size: 22px;
+}
+.price-para{
+    padding: 15px;
+    font-size: 22px;
+}
+.icon-heading{
+    text-align: center;
+    color: #628ab5;
+}
+
+
+

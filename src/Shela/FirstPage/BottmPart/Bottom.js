@@ -31,12 +31,12 @@ function Bottom() {
 
                 <div className='icons'>
                     <div className='icon-1'>
-                    <h1> <FaSearchDollar/> </h1> 
+                    <h1 className='icon__1' > <FaSearchDollar/> </h1> 
                     <h3 className='icon-text'>Item Lookup </h3>
                     </div>
 
                     <div className='icon-2'>
-                        <h1> <FaIdCard/> </h1> 
+                        <h1 className='icon__2'> <FaIdCard/> </h1> 
                         <h3 className='icon-text'> Gift Card</h3>
                     </div>
 
@@ -46,12 +46,12 @@ function Bottom() {
                     </div>
 
                     <div className='icon-3'>
-                        <h1> <GiSandsOfTime/> </h1> 
+                        <h1 className='icon__3'> <GiSandsOfTime/> </h1> 
                         <h3 className='icon-text-3'> Suspend </h3>
                     </div>
 
                     <div className='icon-4'>
-                        <h1> <AiOutlinePercentage/> </h1>
+                        <h1 className='icon__4'> <AiOutlinePercentage/> </h1>
                         <h3 className='icon-text-4' > Offers </h3>
                     </div>
                 </div>

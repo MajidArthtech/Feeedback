@@ -1,0 +1,67 @@
+.headerPart{
+    background-color: #e0efff;
+}
+.head{
+    text-align: center;
+    color: #3f4041;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Four-icon{
+    width: 100%;
+    float: left;
+    margin-left: 15rem;
+
+}
+
+.dot-icon{
+    float: right;
+}
+
+.first-top-icon{
+    color: #94aec7;
+    font-size: 6rem;
+}
+
+.first-icon{
+    margin-top: 3rem;
+    float: left;
+    width: 50%;
+}
+.second-icon{
+    float: left;
+    width: 50%;
+    color: #94aec7;
+    margin-top: 3rem;
+}
+.third-icon{
+    float: left;
+    width: 50%;
+    color: #94aec7;
+    margin-top: 7rem;
+}
+.fourth-icon{
+    float: left;
+    width: 50%;
+    color: #94aec7;
+    margin-top: 7rem;
+}
+.mgn-para{
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mgn-para-3{
+    font-size: 20px;
+    color: black;
+}
+.icon-heading-1{
+    font-size: 9rem;
+}
+.uper{
+    background-color: yellow;
+    width: 50px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
