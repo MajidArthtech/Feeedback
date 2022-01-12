@@ -1,8 +1,11 @@
 .head{
-    margin-top: -30px;
+    margin-top: -16px;
     text-align: center;
     color: blue;
 }  
+.header-1-icon{
+    color: blue;;
+}
 p{
     font-size: 80px;
     font-weight: 700;
@@ -13,11 +16,5 @@ p{
 }
 hr{
     width: 100%;
-    margin-top: -25px;
+    margin-top: -2rem;
 }
-
-
-
-
-
-

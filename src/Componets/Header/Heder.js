@@ -1,16 +1,15 @@
 import React from 'react'
-import './../Header/header.css';
+import './../Header/Header.css';
 function HeadersPage() {
     return (
         <>
-        <div>
+         <div>
               <header className='head'>
-                <p>ma<span className='span-head'>x</span></p>
+                <p className='header-1-icon'>ma<span className='span-head'>x</span></p>
             </header>
             <hr />
-        </div>
+        </div>   
         </>
-        
     )
 }
 export default HeadersPage;

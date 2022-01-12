@@ -1,8 +1,9 @@
 import React from 'react'
-import './../FourthPage/Fourth.css';
+import './Fourth.css';
 function Fourth() {
     return (
         <>
+        <div className='pop-fourth-page'>
            <div className='container'>
         <h3 className='content_heading'>  Damaged Goods </h3>
         <hr className='last-line' />
@@ -27,9 +28,8 @@ function Fourth() {
 
         <h3 className='commerce-heading'> E-Commerce Size Exchnage  </h3>
     </div>
+    </div>
         </>
- 
     )
 }
-
 export default Fourth;

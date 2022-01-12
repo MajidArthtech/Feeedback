@@ -11,19 +11,16 @@
 .Four-icon{
     width: 100%;
     float: left;
-    margin-left: 15rem;
-
+    text-align: center;
 }
-
 .dot-icon{
     float: right;
 }
 
 .first-top-icon{
     color: #94aec7;
-    font-size: 6rem;
+    font-size: 4rem;
 }
-
 .first-icon{
     margin-top: 3rem;
     float: left;
@@ -50,7 +47,7 @@
 .mgn-para{
     color: black;
     font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    
 }
 .mgn-para-3{
     font-size: 20px;
@@ -59,9 +56,9 @@
 .icon-heading-1{
     font-size: 9rem;
 }
-.uper{
+h1.about{
+    width: 46px;
     background-color: yellow;
-    width: 50px;
-    padding-left: 5px;
-    border-radius: 5px;
+    margin-left: 172px;
+    border-radius: 10px;
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import './../FivePage/Five.css';
+import './Five.css';
 function Five() {
     return (
         <>

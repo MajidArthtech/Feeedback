@@ -1,13 +1,12 @@
 import React from 'react'
-import './../BottmPart/Bottom.css'
+import './../FooterPart/Footer.css';
 import {GrNext} from 'react-icons/gr';
-
 import {FaSearchDollar} from'react-icons/fa';
 import {FaIdCard} from 'react-icons/fa';
 import {AiOutlineScan} from 'react-icons/ai';
 import {GiSandsOfTime} from 'react-icons/gi';
 import {AiOutlinePercentage} from  'react-icons/ai'
-function Bottom() {
+function FooterPage() {
     return (
         <>
         <div className='main-bottom'>
@@ -26,8 +25,6 @@ function Bottom() {
                     <th className='th-rate-3'> <tr> 400 </tr> </th>
                 </div>
                 <button className='shop-btn'>Shop for AED 600 more to get 30% off on total </button>
-
-
 
                 <div className='icons'>
                     <div className='icon-1'>
@@ -60,4 +57,4 @@ function Bottom() {
         </>
     )
 }
-export default Bottom;
+export default FooterPage;
