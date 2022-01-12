@@ -24,6 +24,7 @@ function App() {
       <FirstPage/>
       <FirstPage/>
       <FirstPage/>
+      <FirstPage/>
       <Bottom/>
     </div>
   );
