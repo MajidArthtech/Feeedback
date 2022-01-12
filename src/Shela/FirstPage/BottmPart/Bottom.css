@@ -238,7 +238,19 @@
         font-size: 12px;
         padding-left: 26px;
     }
-    
+}
+@media(max-width: 375px){
+    .shop-btn{
+        padding: 5px 10px;
+    }
+    .scan-text{
+        font-size: 12px;
+        padding-left: 32px;
+        width: 6rem;
+    }
+    .icon-text{
+        font-size: 14px;
+    }
 }
 
 
