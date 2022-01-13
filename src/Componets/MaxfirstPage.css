@@ -4,8 +4,6 @@
     position: absolute; 
     background: white;
 } */
-
-
 .span-70{
     color: #ffa575;
 }
@@ -70,7 +68,6 @@
     color: black;
     font-weight: 500;
 }
-
 @media(max-width: 1024px){
    .div-1{
        margin-left: -8rem;
@@ -98,7 +95,6 @@
         width: 35%;
     }
 }
-
 @media(max-width: 768px){
     .main{
         margin-left: 13rem;
@@ -125,7 +121,6 @@
         width: 30%;
     }
 }
-
 @media(max-width: 425px){
     .div-1{
         margin-left: -13rem;
@@ -163,7 +158,6 @@
         margin-left: -11rem;
     }
 }
-
 @media(max-width: 320px){
     .main{
         margin-left: 8rem;
@@ -192,15 +186,7 @@
         font-size: 14px;
     }
 }
-
-
-
-
-
-
-/* *************Footer Css  */
-
-
+/* ***********************************Footer Css **************************************************** */
 .main-bottom{
     background-color: #144d87;
 }
@@ -249,7 +235,6 @@
 .icon-1 h1{
     margin-left: 4rem;
 }
-
 .icon-2{
     margin-top: 15px;
     float: left;
@@ -259,14 +244,12 @@
 .icon-2 h1{
     margin-left: 2rem;
 }
-
 .icon-3{
     margin-top: 15px;
     float: left;
     width: 20%;
     color: #797979;
 }
-
 .icon-4{
     margin-top: 15px;
     float: left;
@@ -351,8 +334,7 @@
     .icon__4{
         padding-left: 1.5rem;
     }
-}
-
+}   
 @media (max-width: 768px) {
     .th-bottom{
         padding-left: 3rem;
@@ -409,7 +391,6 @@
         padding-left: 17px;
     }
 }
-
 @media(max-width: 425px){
     .th-bottom{
         padding-left: 2rem;
